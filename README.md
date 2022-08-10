@@ -1,7 +1,7 @@
 
 
 </p alaing="center">
-<img src="https://github.com/Higlik/Higlik/blob/main/BG.gif" width= "1000" />
+<img src="https://github.com/Higlik/Higlik/blob/main/BG.gif" width= "500" />
 <p aling="center">
 
  <h3 aling="left">Skills and Tools for combat: <h3>
